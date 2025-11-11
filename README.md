@@ -21,15 +21,6 @@
 #### 🧩 Areas of Interest
 `Data Analytics` • `Product Analytics` • `Predictive Modeling` • `A/B Testing` • `Business Strategy` • `Data Visualization`
 
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanprabhakar&show_icons=true&theme=tokyonight" alt="Aman's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanprabhakar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-prabhakar-30543132b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
