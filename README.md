@@ -9,7 +9,7 @@
 - 💡 I love transforming raw data into actionable insights and strategies  
 - 🚀 Currently exploring **Machine Learning**, **Business Analytics**, and **Data Visualization**  
 - 💬 Ask me about **Python, SQL, Power BI, or Statistics**  
-- 📫 Reach me at: **amanprabhakar.work@gmail.com**
+- 📫 Reach me at: **amanprabhakar2000@gmail.com**
 
 ---
 
